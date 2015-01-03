@@ -10,6 +10,8 @@ international team of volunteer DJs who want to bring the joy of DJing to
 everyone. The project is non-profit, open-source and community driven. Together
 and with your help we aim to build the best DJ software ever created.
 
+.. contents:: :depth: 2
+
 Mixxx Features
 ==============
 
